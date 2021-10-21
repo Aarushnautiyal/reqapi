@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://devlopermedia:test123456@cluster0.d2pmr.mongodb.net/Socialhack?retryWrites=true&w=majority",
+    "recipe" : "theencodedone",
+    "githubClientId": "1bb96766330e59ae698c",
+    "githubSecret": "b5f9e286f158333b4869c12dd7e376552590bed0"
+}
